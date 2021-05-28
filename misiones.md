@@ -1,1 +1,3 @@
 ## Misiones
+
+* Capturar Red Skull
